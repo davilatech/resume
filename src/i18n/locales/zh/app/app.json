@@ -1,0 +1,20 @@
+{
+  "item": {
+    "add": "添加 {{- heading}}",
+    "startDate": {
+      "label": "开始日期"
+    },
+    "endDate": {
+      "label": "结束日期"
+    },
+    "description": {
+      "label": "说明"
+    }
+  },
+  "buttons": {
+    "add": {
+      "label": "添加"
+    }
+  },
+  "markdownHelpText": "你可以使用 <1>GitHub 倾向的 Markdown</1> 来美化这部分文字."
+}

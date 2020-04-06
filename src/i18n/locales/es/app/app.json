@@ -1,0 +1,20 @@
+{
+  "item": {
+    "add": "Agregar {{- heading}}",
+    "startDate": {
+      "label": "Fecha de inicio"
+    },
+    "endDate": {
+      "label": "Fecha Final"
+    },
+    "description": {
+      "label": "Descripción"
+    }
+  },
+  "buttons": {
+    "add": {
+      "label": "Agregar"
+    }
+  },
+  "markdownHelpText": "Puedes usar <1>GitHub Flavored Markdown</1> para darle estilo a esta sección."
+}
